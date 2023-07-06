@@ -1,5 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jiwon GitHub&fontSize=90" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JiwonGitHub&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=200&section=header&text=Jiwon&nbsp;GitHub!&fontSize=90&fontColor=eee" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ADD6FF&height=200&section=header&text=Jiwon&nbsp;GitHub!&fontSize=90&fontColor=eee" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D5DDFF&height=200&section=header&text=Jiwon&nbsp;GitHub!&fontSize=90&fontColor=eee" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E5FFD5&height=200&section=header&text=Jiwon&nbsp;GitHub!&fontSize=90&fontColor=eee" />
+
+
+
 
 <!--
 **jijiji1299/jijiji1299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
