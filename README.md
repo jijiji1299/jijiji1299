@@ -34,11 +34,9 @@
 </div>
 
 
-<!--
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=200&section=footer&fontSize=70&fontColor=FFFFFF&fontAlign=32" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=150&section=footer&fontSize=70&fontColor=FFFFFF&fontAlign=32" />
 </div>
--->
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=jijiji1299&show_icons=true">
