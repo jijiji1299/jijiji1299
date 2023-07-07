@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=220&section=header&text=Jiwon&nbsp;GitHub!&fontSize=60&fontColor=FFFFFF&fontAlign=32" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=165&section=header&text=Jiwon&nbsp;GitHub!&fontSize=50&fontColor=FFFFFF&fontAlign=32" />
 </div>
 
 <div align=center><h3>🛠Stacks</h3></div>
@@ -27,21 +27,21 @@
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jijiji1299&layout=compact"><br><br>
 </div>
+
 <br>
 
 <div align=center>
   ✉Email : kimjiwon0384@gmail.com
 </div>
 
-
+<!--
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=150&section=footer&fontSize=70&fontColor=FFFFFF&fontAlign=32" />
 </div>
-
+-->
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=jijiji1299&show_icons=true">
 -->
-
 
 <!--
 **jijiji1299/jijiji1299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
