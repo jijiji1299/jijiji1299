@@ -1,6 +1,6 @@
 <div align=center>
   <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=165&section=header&text=Jiwon&nbsp;GitHub!&fontSize=50&fontColor=FFFFFF&fontAlign=32" /> -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACFFB3&height=165&section=header&text=Jiwon&nbsp;GitHub!&fontSize=50&fontColor=342D2D&fontAlign=32" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACFFB3&height=165&section=header&text=Jiwon's&nbsp;GitHub!&fontSize=50&fontColor=FFFFFF&fontAlign=32" />
 
 </div>
 <div align=center><h3>🛠Stacks</h3></div>
@@ -15,7 +15,7 @@
 <div align=center>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black">
 </div>
 
 <div align=center>
@@ -33,8 +33,8 @@
 <br><br>
 
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jijiji1299&layout=compact">
-  <img src="https://github-readme-stats.vercel.app/api?username=jijiji1299&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=jijiji1299&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jijiji1299&layout=compact&theme=dark">
   <br><br>
 </div>
 
