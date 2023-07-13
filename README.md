@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
 </div>
 
 <div align=center>
@@ -25,7 +24,6 @@
 
 <div align=center>
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
 </div>
@@ -34,7 +32,7 @@
 
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=jijiji1299&show_icons=true&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jijiji1299&layout=compact&theme=dark">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jijiji1299&layout=compact&theme=dark"> -->
   <br><br>
 </div>
 
