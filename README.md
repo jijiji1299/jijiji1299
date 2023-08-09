@@ -28,16 +28,14 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
 </div>
 
-<br><br>
+<br>
 
 <div align=center>
   <!--<img src="https://github-readme-stats.vercel.app/api?username=jijiji1299&show_icons=true&theme=dark"> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jijiji1299&layout=compact&theme=dark"> -->
-  <br><br>
 </div>
 
 
-<br>
 <div align="center">
   ✉Email : <a href="mailto:kimjiwon0384@gmail.com">kimjiwon0384@gmail.com</a>
 </div>
