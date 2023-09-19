@@ -1,6 +1,6 @@
 <div align=center>
   <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=165&section=header&text=Jiwon&nbsp;GitHub!&fontSize=50&fontColor=FFFFFF&fontAlign=32" />-->
-  <<img src="https://capsule-render.vercel.app/api?type=waving&color=ACFFB3&height=165&section=header&text=Jiwon's&nbsp;GitHub!&fontSize=50&fontColor=FFFFFF&fontAlign=32" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACFFB3&height=165&section=header&text=Jiwon's&nbsp;GitHub!&fontSize=50&fontColor=FFFFFF&fontAlign=32" />
 
 </div>
 <div align=center><h3>🛠Stacks</h3></div>
